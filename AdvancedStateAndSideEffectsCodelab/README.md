@@ -6,7 +6,7 @@ codelab.
 
 The project is built in multiple git branches:
 * `main` – the starter code for this project, you will make changes to this to complete the codelab
-* `end` – contains the solution to this codelab
+* `end` – contains the solution to [details](app%2Fsrc%2Fmain%2Fjava%2Fandroidx%2Fcompose%2Fsamples%2Fcrane%2Fdetails)this codelab
 
 ## [Optional] Google Maps SDK setup
 
